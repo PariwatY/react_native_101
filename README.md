@@ -19,7 +19,7 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 
 2. Install Library react-native-vector-icons for using icon
 ```
- npm install --save react-native-vector-icons  
+npm install --save react-native-vector-icons  
 ```
 ```
 react-native link react-native-vector-icons    
@@ -28,7 +28,7 @@ react-native link react-native-vector-icons
 # How to setup project
 1. Create Project
 ```
-2.2 npx react-native init AwesomeProject2
+npx react-native init AwesomeProject2
 ```
 
 2. Build&Run priject
