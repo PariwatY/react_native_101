@@ -5,7 +5,8 @@
 4. NPM 6.14.15
 5. WATCHMAN
 6. Android Studio
-7. NVM (**Optional: Using for switch NODE,NPM version)
+7. JENV (**Optional: Using for switch Java version)
+8. NVM (**Optional: Using for switch NODE,NPM version)
 
 # Configuration
 1. After Install Android Studio We have to export path follow this
