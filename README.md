@@ -28,7 +28,7 @@ react-native link react-native-vector-icons
 # How to setup project
 1. Create Project
 ```
-npx react-native init AwesomeProject2
+npx react-native init DEMO_QUMATA
 ```
 
 2. Build&Run priject

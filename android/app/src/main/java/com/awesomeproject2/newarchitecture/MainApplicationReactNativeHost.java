@@ -1,4 +1,4 @@
-package com.awesomeproject2.newarchitecture;
+package com.demo_qumata.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.awesomeproject2.BuildConfig;
-import com.awesomeproject2.newarchitecture.components.MainComponentsRegistry;
-import com.awesomeproject2.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.demo_qumata.BuildConfig;
+import com.demo_qumata.newarchitecture.components.MainComponentsRegistry;
+import com.demo_qumata.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

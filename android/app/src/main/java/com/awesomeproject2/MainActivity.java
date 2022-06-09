@@ -1,4 +1,4 @@
-package com.awesomeproject2;
+package com.demo_qumata;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -12,7 +12,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "AwesomeProject2";
+    return "DEMO_QUMATA";
   }
 
   /**

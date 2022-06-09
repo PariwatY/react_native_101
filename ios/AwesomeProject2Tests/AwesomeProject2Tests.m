@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface AwesomeProject2Tests : XCTestCase
+@interface DEMO_QUMATATests : XCTestCase
 
 @end
 
-@implementation AwesomeProject2Tests
+@implementation DEMO_QUMATATests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {
