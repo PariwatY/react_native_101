@@ -1,11 +1,12 @@
 # Environtment Preparation (****This Project will use Andriod)
 1. MACOS BIGSUR
 2. JAVA 11.0.13 
-3. NODE 16.15.1
-4. NPM 8.11.0
+3. NODE 14.18.2
+4. NPM 6.14.15
 5. WATCHMAN
 6. Android Studio
-7. NVM (**Optional: Using for switch NODE,NPM version)
+7. JENV (**Optional: Using for switch Java version)
+8. NVM (**Optional: Using for switch NODE,NPM version)
 
 # Configuration
 1. After Install Android Studio We have to export path follow this
@@ -31,7 +32,7 @@ react-native link react-native-vector-icons
 npx react-native init DEMO_QUMATA
 ```
 
-2. Build&Run priject
+2. Build & Run project
 ```
 npx react-native run-android
 ```
